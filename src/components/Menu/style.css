@@ -1,0 +1,114 @@
+.menu {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.menu .frame {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0px;
+  position: relative;
+  width: 1043px;
+}
+
+.menu .logo {
+  height: 42px;
+  min-width: 93px;
+  position: relative;
+}
+
+.menu .img {
+  height: 16px;
+  min-width: 338px;
+  position: relative;
+}
+
+.menu .div {
+  align-items: center;
+  background-color: var(--yellow-02);
+  display: flex;
+  gap: 758px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 1280px;
+}
+
+.menu .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu .group {
+  height: 10.5px;
+  min-width: 15px;
+  position: relative;
+}
+
+.menu .rectangle {
+  background-color: #100c08;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.menu .rectangle-2 {
+  background-color: #100c08;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 15px;
+}
+
+.menu .rectangle-3 {
+  background-color: #100c08;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.menu .SHOP {
+  color: #100c08;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu .text-wrapper {
+  color: #100c08;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 11.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14.7px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

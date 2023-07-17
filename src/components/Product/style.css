@@ -1,0 +1,256 @@
+.product {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.product .element {
+  height: 224px;
+  min-width: 224px;
+  object-fit: cover;
+  position: relative;
+}
+
+.product .frame-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.product .eclips-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 21px;
+  display: flex;
+  gap: 10px;
+  padding: 0px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.product .eclips {
+  color: #000000;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.product .crayola-chalk-white {
+  color: #100c08;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 187px;
+}
+
+.product .button-instance {
+  margin-bottom: -1.5px !important;
+  padding: 2px 16px !important;
+}
+
+.product .instance-node {
+  font-size: 18px !important;
+  line-height: 25.2px !important;
+}
+
+.product .frame-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 54px;
+  justify-content: space-between;
+  padding: 0px 4px;
+  position: relative;
+}
+
+.product .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  width: fit-content;
+}
+
+.product .text-input {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #100c08;
+  border-radius: 4px;
+  display: flex;
+  gap: 16px;
+  height: 29px;
+  margin-left: -1.5px;
+  margin-right: -1.5px;
+  margin-top: -1.5px;
+  padding: 12px 28px 12px 10px;
+  position: relative;
+  width: 54px;
+}
+
+.product .element-2 {
+  color: #100c08;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -8px;
+  margin-right: -1px;
+  margin-top: -11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .overlap-group-wrapper {
+  height: 26px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.product .overlap-group {
+  height: 26px;
+  position: relative;
+}
+
+.product .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: fit-content;
+}
+
+.product .element-3 {
+  color: #000000;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  opacity: 0.4;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .element-4 {
+  color: #000000;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .line {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.product .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 19px;
+}
+
+.product .text-wrapper-5 {
+  color: #000000;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .button-2 {
+  align-items: center;
+  background-color: var(--yellow);
+  border: 1.5px solid;
+  border-color: #100c08;
+  border-radius: 5.06px;
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -1.5px;
+  padding: 2px 4px 2px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.product .button-3 {
+  color: #100c08;
+  font-family: "Author-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product .icon-chevron-right-2 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.product .hover {
+  align-items: flex-end;
+}
+
+.product .none {
+  align-items: center;
+}
